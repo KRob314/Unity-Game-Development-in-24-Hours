@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 95a3db6bffd02e64f805ad54f42508b5
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_material
+    second: {fileID: 2100000, guid: 9d600215a784b5d47a4ac19c74441a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material
+    second: {fileID: 2100000, guid: d3735e1ff7b4b294c81211bb668944f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal MAT
+    second: {fileID: 2100000, guid: 1b8ddc95787cb08468a968259ec5f015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof MAT
+    second: {fileID: 2100000, guid: 650e34fd49796b2449747818b23fa2db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.001
+    second: {fileID: 2100000, guid: 26294c7586948c2408fb1ac28e881c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.002
+    second: {fileID: 2100000, guid: 4ca21a5fc67bc2442bc57f6329fb5b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.003
+    second: {fileID: 2100000, guid: 771a2db27fa7eb946b3d8b7939723b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.004
+    second: {fileID: 2100000, guid: a7e33c337109aac418decd9db58a00fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.005
+    second: {fileID: 2100000, guid: 8335c3f42f5921e42bde56236daac761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.006
+    second: {fileID: 2100000, guid: 86ef35142dd212b4192a2304d3028bdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.007
+    second: {fileID: 2100000, guid: 5cf2ba5f5db512a44bbe422a52edf119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.008
+    second: {fileID: 2100000, guid: ca3b19ece4b9d634f86ddfe7e242a891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.009
+    second: {fileID: 2100000, guid: d2595be51dbf33d43b4b3d464e863845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.010
+    second: {fileID: 2100000, guid: 99c09ff1a11b14d498b95721d11e588c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.011
+    second: {fileID: 2100000, guid: db008b9d809fe3149b46c835a5bd9591, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.012
+    second: {fileID: 2100000, guid: 35f9ab3547ed20947972c5f5fdb937ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.013
+    second: {fileID: 2100000, guid: eb609d81df31b9646b09107f7c0968cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.014
+    second: {fileID: 2100000, guid: a51ab5abc6ea8a141be5bc63db96a1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.019
+    second: {fileID: 2100000, guid: 72fbd20c65b160f4a86e4c82a3a490f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.020
+    second: {fileID: 2100000, guid: 39fec04ae6e88034dbcc8cdf4508e269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.022
+    second: {fileID: 2100000, guid: 2aa79ecb5787a6046bdd39069645bace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.023
+    second: {fileID: 2100000, guid: 4f4f08c4aca62d044be86e096ab23b3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.024
+    second: {fileID: 2100000, guid: ee74e7a3718ef924292636c74f824015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.025
+    second: {fileID: 2100000, guid: d79d6b8e71a0fa04fa4c4b837a9fc1f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.026
+    second: {fileID: 2100000, guid: 61a1f330875aaff48856d6fd1c10091a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.027
+    second: {fileID: 2100000, guid: e2263c69db62bf24d97b31df2017a22a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.029
+    second: {fileID: 2100000, guid: a5712d3b53b5897428f10958bca37882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.030
+    second: {fileID: 2100000, guid: 72db6343a6699ec42a96a726db326913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.031
+    second: {fileID: 2100000, guid: 65acc2c08aaa57b4e8fbca9622004b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.035
+    second: {fileID: 2100000, guid: f41329b569404b141a4b92de5d8637db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.036
+    second: {fileID: 2100000, guid: ce8e426942e9ae74a83b9b9a6d71baa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.037
+    second: {fileID: 2100000, guid: 62ac6a55a5c68534eaccd79fc9a4b8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.038
+    second: {fileID: 2100000, guid: 82ab9fbbfcfb9964db3aeb51157df593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.040
+    second: {fileID: 2100000, guid: ceb26b07d1fcfde4bb017dcaf1d853d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.042
+    second: {fileID: 2100000, guid: 76f1c7928a3be6742bdd6d0e85f90bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.043
+    second: {fileID: 2100000, guid: 3c283dc5a04c98a40be614c311721f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.044
+    second: {fileID: 2100000, guid: 7d9c2176ea8ecd542a8182c6c737768d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.045
+    second: {fileID: 2100000, guid: 3f347cf4d692f194d98879cf363de502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.046
+    second: {fileID: 2100000, guid: a4e00cb8df110a74684e4715e98cc78e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.047
+    second: {fileID: 2100000, guid: 2ae7054c0121f4c4f8d6324688f332ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.048
+    second: {fileID: 2100000, guid: c8f47f74f1cb58c4185b311582c5ec87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.049
+    second: {fileID: 2100000, guid: 71c09433b17ee2448adf599f2d6415df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.050
+    second: {fileID: 2100000, guid: b561ede568241834dbce49eda7d1cd3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.051
+    second: {fileID: 2100000, guid: 13190da51e6ecd745a98d0d61306b84f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.052
+    second: {fileID: 2100000, guid: 58432e823f5bdc34986e3bea5366ea96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.053
+    second: {fileID: 2100000, guid: f31d0fd8f156f1743affdc211d219de0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.054
+    second: {fileID: 2100000, guid: fcf8a5215b763244d98a2c29e191eda4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.055
+    second: {fileID: 2100000, guid: f7f29e9b6133fed42ba2d7f5d5b4d550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood MAT.056
+    second: {fileID: 2100000, guid: b3d72bd6317706945a6a8cd3a9feadb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hidden_material
+    second: {fileID: 2100000, guid: cce14f2f47d0ff54292113988c85ebc6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof Texture
+    second: {fileID: 2800000, guid: af4e8b67aa3d03b4da7fad8ab96df3ad, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
