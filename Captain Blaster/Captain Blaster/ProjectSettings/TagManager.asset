@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Meteor
+  - Powerup_Double_Shot
+  - Powerup_FireInterval
   layers:
   - Default
   - TransparentFX
